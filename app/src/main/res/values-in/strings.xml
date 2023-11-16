@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="detail_app">Detail Cerita</string>
+    <string name="add_app">Tambah Data</string>
+    <string name="image_warning">Gagal Mengunggah Gambar</string>
+
+    <string name="complete_data">Lengkapi Data</string>
+    <string name="welcome_to_story_app">Selamat Datang di Aplikasi Story</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="fill_data_with_correct">Isi Data dengan Benar</string>
+    <string name="selamat_data_di_aplikas_story_app">Selamat Data Di Aplikasi Story</string>
+    <string name="story_app_in_android_intermediate_class" >Aplikasi Aplikasi Cerita Di Android Kelas Menengah</string>
+    <string name="button_add">Tombol Tambah</string>
+    <string name="description">Deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="logout">Logout</string>
+    <string name="your_name">Nama Anda</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="email_undenfined">Email Tidak Valid</string>
+    <string name="hint_email">contoh@mail.com</string>
+    <string name="password_incorrect">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="title_activity_maps">Halaman Peta</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="have_data">Data Ditampilkan</string>
+    <string name="no_data">Tidak Ada Data</string>
+
+    <string name="title_confirm_logout">Konfirmasi Logout</string>
+    <string name="question_logout">Apakah Kamu Yakin?</string>
+    <string name="logout_yes">YA</string>
+    <string name="logout_no">TIDAK</string>
+    <string name="setlocation">Gunakan Lokasi Saat Ini</string>
+    <string name="unknowlocation">Lokasi Tidak Diketahui</string>
+    <string name="permission">Izin Ditolak</string>
+
+</resources>
